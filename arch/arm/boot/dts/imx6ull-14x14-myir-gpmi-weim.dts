@@ -6,7 +6,7 @@
  * published by the Free Software Foundation.
  */
 
-#include "myb-y6ull-14x14.dts"
+#include "imx6ull-14x14-myir.dts"
 
 &gpmi {
 	pinctrl-names = "default";

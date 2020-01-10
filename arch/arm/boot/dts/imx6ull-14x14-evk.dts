@@ -60,7 +60,6 @@
 			regulator-name = "can-3v3";
 			regulator-min-microvolt = <3300000>;
 			regulator-max-microvolt = <3300000>;
-			gpios = <&gpio_spi 3 GPIO_ACTIVE_LOW>;
 		};
 
 		reg_sd1_vmmc: regulator@1 {
